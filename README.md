@@ -2,6 +2,10 @@
 
 Blue flavoured Dark Theme for Visual Studio Code.
 
+![2](https://user-images.githubusercontent.com/92677078/162636487-5350f8ad-756c-4450-8146-ac14e40266cc.jpg)
+
+
+
 <h3>Install</h3>
 Search "blueDark Theme" in the extensions tab of your VS Code amd install.
 Or get it directly from the VS Code Marketplace.
