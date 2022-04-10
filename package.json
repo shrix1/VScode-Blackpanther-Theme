@@ -1,0 +1,48 @@
+{
+    "name": "blue-dark-theme",
+    "displayName": "blue-dark-theme",
+    "description": "shri-blue-dark-theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.8.0"
+    },
+    "publisher": "Shriprasanna",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shrix1/shri-blue-dark-theme"
+    },
+    "author": {
+        "name": "shriprasanna"
+    },
+    "icon": "image.png",
+    "keywords": [
+        "theme",
+        "shri theme",
+        "blue theme",
+        "blue dark theme",
+        "shri blue theme",
+        "shri blue dark theme",
+        "shri shri theme"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "blueDark-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blueDark-theme-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^2.7.0"
+    },
+    "devDependencies": {
+        "esbuild": "^0.14.34",
+        "ts-loader": "^9.2.8",
+        "webpack": "^5.72.0",
+        "webpack-cli": "^4.9.2"
+    }
+}
