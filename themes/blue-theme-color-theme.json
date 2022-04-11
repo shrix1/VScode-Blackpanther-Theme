@@ -1706,7 +1706,7 @@
 		  "beginning.punctuation.definition.list.markdown.xi"
 		],
 		"settings": {
-		  "foreground": "#bbe1fa"
+		  "foreground": "#bbe1fa91"
 		}
 	  },
 	  {
@@ -1917,7 +1917,7 @@
 	  "inputOption.activeForeground": "#ececec",
 	  "input.placeholderForeground": "#ffffff",
 	  "textLink.foreground": "#ffffff",
-	  "editor.background": "#000000a3",
+	  "editor.background": "#232323",
 	  "editor.foreground": "#ffffff",
 	  "editorLineNumber.foreground": "#33404d",
 	  "editorCursor.foreground": "#ffffff",
