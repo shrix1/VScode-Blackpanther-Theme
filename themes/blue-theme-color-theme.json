@@ -1790,7 +1790,7 @@
 		"scope": "comment, punctuation.definition.comment",
 		"settings": {
 		  "fontStyle": "italic",
-		  "foreground": "#bbe1fa"
+		  "foreground": "#bbe1fa77"
 		}
 	  },
 	  {
@@ -2091,7 +2091,7 @@
 	  "minimap.selectionHighlight": "#2a6199a9",
 	  "minimap.errorHighlight": "#db2f5f",
 	  "minimap.warningHighlight": "#cca700",
-	  "minimap.background": "#000000a3",
+	  "minimap.background": "#504e4ef3",
 	  "sideBar.dropBackground": "#2e333662",
 	  "editorGroup.emptyBackground": "#000000a3",
 	  "panelSection.border": "#2286cf59",
