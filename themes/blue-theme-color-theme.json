@@ -1706,7 +1706,7 @@
 		  "beginning.punctuation.definition.list.markdown.xi"
 		],
 		"settings": {
-		  "foreground": "#bbe1fa"
+		  "foreground": "#bbe1fa87"
 		}
 	  },
 	  {
@@ -1943,13 +1943,13 @@
 	  "editor.lineHighlightBorder": "#282828",
 	  "editorLineNumber.activeForeground": "#ffffff",
 	  "editorLink.activeForeground": "#117fd9",
-	  "editorIndentGuide.background": "#deb6b6",
-	  "editorIndentGuide.activeBackground": "#2389ba",
+	  "editorIndentGuide.background": "#e4cfcf1c",
+	  "editorIndentGuide.activeBackground": "#61b0d4c2",
 	  "editorRuler.foreground": "#5a5a5a",
 	  "editorBracketMatch.background": "#0064001a",
 	  "editorBracketMatch.border": "#888888",
 	  "editor.foldBackground": "#33679b4d",
-	  "editorOverviewRuler.background": "#487bbc3a",
+	  "editorOverviewRuler.background": "#487abc00",
 	  "editorOverviewRuler.border": "#9b6b6b00",
 	  "editorError.foreground": "#db2f5f",
 	  "editorError.background": "#c03d3700",
