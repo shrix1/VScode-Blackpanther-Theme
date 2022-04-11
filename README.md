@@ -2,15 +2,15 @@
 
 Blue flavoured Dark Theme for Visual Studio Code.
 
-![n](https://user-images.githubusercontent.com/92677078/162660276-17c9f450-7026-413c-89d9-cdf81ac11ac2.jpg)
+![new](https://user-images.githubusercontent.com/92677078/162747234-173d4456-035a-468d-9481-1c8fa9894883.jpg)
+
 
 <h3>Install</h3>
 
 Search "blueDark Theme" in the extensions tab of your VS Code amd install.
 Or get it directly from the VS Code Marketplace.
 
-
-![2](https://user-images.githubusercontent.com/92677078/162636487-5350f8ad-756c-4450-8146-ac14e40266cc.jpg)
+![new 2](https://user-images.githubusercontent.com/92677078/162747249-e030936c-3110-4a6e-b8e4-339789e377a8.jpg)
 
 <h3>Developer</h3>
 Developed and maintained by <a href="https://github.com/shrix1/shri-blue-dark-theme" target="blank" >shrix1</a>
