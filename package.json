@@ -2,7 +2,7 @@
     "name": "blue-dark-theme",
     "displayName": "blue-dark-theme",
     "description": "A vs code theme who love to code at night and chill",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "engines": {
         "vscode": "^1.8.0"
     },
