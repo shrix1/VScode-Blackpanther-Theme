@@ -1,7 +1,7 @@
 {
-    "name": "blue-dark-theme",
-    "displayName": "blue-dark-theme",
-    "description": "A vs code theme who love to code at night and chill",
+    "name": "Black panther theme",
+    "displayName": "Black panther theme",
+    "description": "Black panther + little lightblue theme for night coders",
     "version": "1.1.6",
     "engines": {
         "vscode": "^1.8.0"
@@ -18,11 +18,11 @@
     "keywords": [
         "theme",
         "shri theme",
-        "blue theme",
-        "blue dark theme",
-        "shri blue theme",
-        "shri blue dark theme",
-        "shri shri theme"
+        "black theme",
+        "black lightblue theme",
+        "dark theme",
+        "panther theme",
+        "black panther theme"
     ],
     "categories": [
         "Themes"
@@ -30,9 +30,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "blueDark-theme",
+                "label": "black-panther-theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/blue-theme-color-theme.json"
+                "path": "./themes/panther-theme.json"
             }
         ]
     },
