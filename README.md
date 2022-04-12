@@ -15,6 +15,7 @@ Or get it directly from the VS Code Marketplace.
 
 
 <h3>Developer</h3>
+
 >Developed and maintained by <a href="https://github.com/shrix1/shri-blue-dark-theme" target="_blank" >shrix1</a>
 
 <h3>Contributing</h3>
