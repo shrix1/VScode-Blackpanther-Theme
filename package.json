@@ -2,7 +2,7 @@
     "name": "blue-dark-theme",
     "displayName": "Black-panther-theme",
     "description": "Black panther + little lightblue theme for night coders",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "engines": {
         "vscode": "^1.8.0"
     },
