@@ -1,7 +1,7 @@
 {
     "name": "blue-dark-theme",
     "displayName": "Black-panther-theme",
-    "description": "Black panther + little lightblue theme for night coders",
+    "description": "Perfect Black theme that why called a BLACK PANTHER",
     "version": "1.2.1",
     "engines": {
         "vscode": "^1.8.0"
@@ -19,10 +19,10 @@
         "theme",
         "shri theme",
         "black theme",
-        "black lightblue theme",
+        "perfect black theme",
         "dark theme",
         "panther theme",
-        "black panther theme"
+        "dark black theme"
     ],
     "categories": [
         "Themes"
