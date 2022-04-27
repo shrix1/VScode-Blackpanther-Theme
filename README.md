@@ -2,17 +2,14 @@
 
 >Black Panther Dark Theme for Visual Studio Code.
 
-![23](https://user-images.githubusercontent.com/92677078/162977044-bba5af86-1376-4fe0-aecc-abe90934e0a3.jpg)
-
-
+![Screenshot 2022-04-27 173801](https://user-images.githubusercontent.com/92677078/165514904-f2d6a349-2106-42ca-a27e-c83981a519b4.jpg)
 
 <h3>Install</h3>
 
 Search "Black panther theme" in the extensions tab of your VS Code and install.
 Or get it directly from the VS Code Marketplace.
 
-![2](https://user-images.githubusercontent.com/92677078/162977063-5d4c703b-ec6a-413a-98aa-89fb2e014e38.jpg)
-
+![Screenshot 2022-04-27 173833](https://user-images.githubusercontent.com/92677078/165514918-61d432f3-eef7-4c4f-b1b1-c11c16b970c7.jpg)
 
 <h3>Developer</h3>
 
