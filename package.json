@@ -2,7 +2,7 @@
     "name": "blue-dark-theme",
     "displayName": "Black-panther-theme",
     "description": "Perfect Black theme that why called a BLACK PANTHER",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "engines": {
         "vscode": "^1.8.0"
     },
