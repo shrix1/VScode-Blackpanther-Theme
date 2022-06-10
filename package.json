@@ -37,6 +37,7 @@
         ]
     },
     "dependencies": {
+        "npm": "^8.12.1",
         "vsce": "^2.7.0"
     },
     "devDependencies": {

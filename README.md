@@ -1,6 +1,6 @@
 <h1>Perfect Black Theme</h1>
 
-<h1>check our theme website for more information:<a href="#">link</a></h1>
+<h1>check our theme website for more information>https://miniproject-shrix1.vercel.app</h1>
 
 > Black Panther Dark Theme for Visual Studio Code.
 
